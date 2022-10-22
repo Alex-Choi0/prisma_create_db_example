@@ -26,7 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-<p><a href="https://engineeringshw.blogspot.com/2022/10/nestjs-redis-pubsub-cluster-socketio-2.html">relate blog : https://engineeringshw.blogspot.com/2022/10/nestjs-redis-pubsub-cluster-socketio-2.html</a></p>
+<p><a href="https://engineeringshw.blogspot.com/2022/10/nestjs-prisma-orm-db-env.html">relate blog : https://engineeringshw.blogspot.com/2022/10/nestjs-prisma-orm-db-env.html</a></p>
 
 ## Installation
 
